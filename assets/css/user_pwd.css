@@ -1,0 +1,14 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(242, 243, 245);
+}
+
+.layui-card {
+    margin: 15px;
+}
+
+.layui-form-item {
+    width: 600px;
+}

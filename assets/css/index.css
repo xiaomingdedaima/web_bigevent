@@ -27,15 +27,16 @@ a {
 }
 
 .userinfo {
-    height: 60px;
+    height: 58px;
     line-height: 60px;
     text-align: center;
     font-size: 12px;
     user-select: none;
 }
 
-.layui-nav .userinfo {
-    border-bottom: 1px solid rgb(35, 38, 46);
+.layui-nav-item .userinfo {
+    box-sizing: border-box;
+    border-bottom: 3px solid rgb(0, 150, 136);
 }
 
 .layui-nav-img {
